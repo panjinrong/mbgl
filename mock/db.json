@@ -1,0 +1,90 @@
+{
+  
+    "week":{ "id": 1, "typename":"周榜","children":[
+    	{"rank":"1","name":"杜利亚1","num":"9","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+    	{"rank":"2","name":"王杰","num":"8","img":"http://img5.imgtn.bdimg.com/it/u=4082700346,1412315411&fm=27&gp=0.jpg"},
+    	{"rank":"3","name":"张忠","num":"7","img":"http://img3.imgtn.bdimg.com/it/u=2777008330,1289798081&fm=27&gp=0.jpg"},
+    	{"rank":"4","name":"张晓霞","num":"6","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+    	{"rank":"5","name":"张光","num":"5","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+    	{"rank":"6","name":"万晓","num":"5","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+    	{"rank":"7","name":"王利军","num":"4","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"}
+    ]},
+    "month":{
+    "id": 2, "typename":"月榜","children":[
+        {"rank":"1","name":"杜利亚2","num":"15","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+        {"rank":"2","name":"王杰","num":"12","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+        {"rank":"3","name":"张忠","num":"11","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+        {"rank":"4","name":"张晓霞","num":"10","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+        {"rank":"5","name":"张光","num":"10","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+        {"rank":"6","name":"万晓","num":"9","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+        {"rank":"7","name":"王利军","num":"8","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"}
+    ]
+},
+    "count":{
+    "id": 3, "typename":"总榜","children":[
+        {"rank":"1","name":"杜利亚3","num":"31","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+        {"rank":"2","name":"王杰","num":"30","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+        {"rank":"3","name":"张忠","num":"29","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+        {"rank":"4","name":"张晓霞","num":"27","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+        {"rank":"5","name":"张光","num":"26","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+        {"rank":"6","name":"万晓","num":"25","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"},
+        {"rank":"7","name":"王利军","num":"24","img":"http://img5.imgtn.bdimg.com/it/u=3456403917,3492521682&fm=27&gp=0.jpg"}
+    ]
+  }
+,
+  "notice":{
+    "content":[
+      { "id":"20170000001",
+        "username":"我",
+        "huifuren":"张黎明",
+        "faceaddress":"http://img0.imgtn.bdimg.com/it/u=1321954357,4257431625&fm=27&gp=0.jpg",
+        "plnr":"有勇气，我也一起,一起学习有意思！！！",
+        "mbxx":{"mbid":"00001","mbuser":"张亮","describe":"30天英语大师，加油！，30天英语大师，加油！","mbIllUrl":{"url":"http://f12.baidu.com/it/u=2205664269,3733314732&fm=72"}},
+        "time":"今天: 12:30",
+        "plList":[
+        {"plid":"0000001","huifuren":"杜丽雅","buser":"","plnr":"有勇气，算我一个，一起整!!1","plpid":"","mbid":"20170000001","time":"今天: 12:30"},
+        {"plid":"0000002","huifuren":"张黎明","buser":"杜丽雅","plnr":"有勇气，算我一个，一起整!!2","plpid":"0000001","mbid":"20170000001","time":"今天: 12:30"},
+        {"plid":"0000003","huifuren":"杜丽雅","buser":"张黎明","plnr":"有勇气，算我一个，一起整!!3","plpid":"0000001","mbid":"20170000001","time":"今天: 12:30"},
+        {"plid":"0000003","huifuren":"杜丽雅","buser":"张黎明","plnr":"有勇气，算我一个，一起整!!3","plpid":"0000001","mbid":"20170000001","time":"今天: 12:30"},
+        {"plid":"0000003","huifuren":"杜丽雅","buser":"张黎明","plnr":"有勇气，算我一个，一起整!!3","plpid":"0000001","mbid":"20170000001","time":"今天: 12:30"},
+        {"plid":"0000003","huifuren":"杜丽雅","buser":"张黎明","plnr":"有勇气，算我一个，一起整!!3","plpid":"0000001","mbid":"20170000001","time":"今天: 12:30"},
+        {"plid":"0000003","huifuren":"杜丽雅","buser":"张黎明","plnr":"有勇气，算我一个，一起整!!3","plpid":"0000001","mbid":"20170000001","time":"今天: 12:30"}]},
+      { "id":"20170000001",
+        "username":"我",
+        "huifuren":"张黎明",
+        "faceaddress":"http://img0.imgtn.bdimg.com/it/u=1321954357,4257431625&fm=27&gp=0.jpg",
+        "plnr":"有勇气，我也一起,一起学习有意思！！！",
+        "mbxx":{"mbid":"00001","mbuser":"张亮","describe":"30天英语大师，加油！，30天英语大师，加油！","mbIllUrl":{"url":"http://f12.baidu.com/it/u=2205664269,3733314732&fm=72"}},
+        "time":"今天: 12:30",
+        "plList":[
+        {"plid":"0000001","huifuren":"杜丽雅","buser":"","plnr":"有勇气，算我一个，一起整!!1","plpid":"","mbid":"20170000001","time":"今天: 12:30"},
+        {"plid":"0000002","huifuren":"张黎明","buser":"杜丽雅","plnr":"有勇气，算我一个，一起整!!2","plpid":"0000001","mbid":"20170000001","time":"今天: 12:30"},
+        {"plid":"0000003","huifuren":"杜丽雅","buser":"张黎明","plnr":"有勇气，算我一个，一起整!!3","plpid":"0000001","mbid":"20170000001","time":"今天: 12:30"},
+        {"plid":"0000003","huifuren":"杜丽雅","buser":"张黎明","plnr":"有勇气，算我一个，一起整!!3","plpid":"0000001","mbid":"20170000001","time":"今天: 12:30"},
+        {"plid":"0000003","huifuren":"杜丽雅","buser":"张黎明","plnr":"有勇气，算我一个，一起整!!3","plpid":"0000001","mbid":"20170000001","time":"今天: 12:30"}]}
+     ],
+    "code":"40001"
+  },
+  "noticeXq":{
+    "content":{
+        "mbid":"20170000001",
+        "huifuren":"张明",
+        "describe":"30天英语大师，加油！，30天英语大师，加油！",
+        "illUrls":[{"url":"http://f12.baidu.com/it/u=2205664269,3733314732&fm=72"},
+            {"url":"http://f12.baidu.com/it/u=2205664269,3733314732&fm=72"},
+            {"url":"http://f12.baidu.com/it/u=2205664269,3733314732&fm=72"},
+            {"url":"http://f12.baidu.com/it/u=2205664269,3733314732&fm=72"}],
+
+        "time":"今天: 12:30",
+        "plList":[
+            {"plid":"0000001","huifuren":"杜丽雅","buser":"","plnr":"有勇气，算我一个，一起整!!1","plpid":"","mbid":"20170000001","time":"今天: 12:30",
+                "children":[{"plid":"0000001","huifuren":"杜丽雅","buser":"","plnr":"有勇气，算我一个，一起整!!1","plpid":"","mbid":"20170000001","time":"今天: 12:30"},
+                            {"plid":"0000001","huifuren":"杜丽雅","buser":"","plnr":"有勇气，算我一个，一起整!!1","plpid":"","mbid":"20170000001","time":"今天: 12:30"}]
+            },
+            {"plid":"0000002","huifuren":"张黎明","buser":"杜丽雅","plnr":"有勇气，算我一个，一起整!!2","plpid":"0000001","mbid":"20170000001","time":"今天: 12:30"}]},
+    "code":"40001"
+  },
+  "studyplan":[{"xq":"第一学期",
+            "xk":[{"km":"大学语文"},{"km":"高等数学"},{"km":"大学英语1"},{"km":"大学计算机基础"},{"km":"大学物理"},{"km":"马克思哲学"},{"km":"数据库基础"},{"km":"线性代数1"}],
+            "fl":[{"mc":"类别","xq":"必修"},{"mc":"课时","xq":"60"},{"mc":"学分","xq":"8"}]}]
+}
